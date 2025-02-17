@@ -245,5 +245,15 @@ p
 {
     color: #6366f1;
     font-size: 18px;
+    list-style: none;
+}
+.contactInfo ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+    transition: color 0.3s ease;
+}
+.contactInfo ul li a:hover {
+    color: #6366f1; 
 }
 
